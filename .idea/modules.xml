@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1.mvp/1.mvp.iml" filepath="$PROJECT_DIR$/1.mvp/1.mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.mvp_QuoteGenerator/1.mvp_QuoteGenerator.iml" filepath="$PROJECT_DIR$/1.mvp_QuoteGenerator/1.mvp_QuoteGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.mvp_login/2.mvp_login.iml" filepath="$PROJECT_DIR$/2.mvp_login/2.mvp_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.di/3.di.iml" filepath="$PROJECT_DIR$/3.di/3.di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.mvp_di/4.mvp_di.iml" filepath="$PROJECT_DIR$/4.mvp_di/4.mvp_di.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidCleanArchitecture.iml" filepath="$PROJECT_DIR$/AndroidCleanArchitecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

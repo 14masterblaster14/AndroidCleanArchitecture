@@ -8,7 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/1.mvp" />
+            <option value="$PROJECT_DIR$/1.mvp_QuoteGenerator" />
+            <option value="$PROJECT_DIR$/2.mvp_login" />
+            <option value="$PROJECT_DIR$/3.di" />
+            <option value="$PROJECT_DIR$/4.mvp_di" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

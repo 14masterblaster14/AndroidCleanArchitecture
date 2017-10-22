@@ -1,1 +1,1 @@
-include ':app', ':1.mvp'
+include ':app', ':1.mvp_QuoteGenerator', ':2.mvp_login', ':3.di', ':4.mvp_di'
